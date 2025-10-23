@@ -2,7 +2,7 @@
 
 
 ## Objetivo general
-Esta es una aplicación de un banco. Es un API REST utilizando spring Boot en Java, esta muy bien estructurado por medio de paquetes.
+- Esta es una aplicación de un banco. Es un API REST utilizando spring Boot en Java, esta muy bien estructurado por medio de paquetes.
 ---
 ## Extensiones 
 En visual studio las extensiones son herramientas especializadas que transforman su editor de texto en un Entorno de Desarrollo, capaz de entender y construir una aplicación de banco con Java y Spring Boot.
