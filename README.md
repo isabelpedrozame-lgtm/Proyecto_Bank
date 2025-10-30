@@ -40,3 +40,35 @@ Todo esto se hace por medio de peticiones HTTP, que se pueden probar con Postman
 
 - **<img width="770" height="383" alt="image" src="https://github.com/user-attachments/assets/1cd308b4-9c43-47b3-bb69-3c749860abca" />**
 - Y de esta manera se puede ver, asi mismo se puede hacer la peticion de la cuenta bancaria.
+
+  ---
+  ## Utilizar swagger
+- Usamos Swagger para documentar la API y para demostrar que cada función de la aplicación bancaria está en funcionamiento.
+- 
+  **Crear cliente**:
+  Utilizaremos POST
+- **<img width="959" height="294" alt="image" src="https://github.com/user-attachments/assets/c4096406-1767-41f4-85c8-800b49f00831" />**
+  
+  **Lista para todos los clientes**:
+  Utilizaremos GET
+- **<img width="910" height="351" alt="image" src="https://github.com/user-attachments/assets/4ec34b84-5f84-40cc-b6bc-e1eb807b7ba2" />**
+
+
+  **Buscar un cliente por el id**:
+  Seguimos con el metodo GET, colocaremos un ID valido
+  - **<img width="455" height="125" alt="image" src="https://github.com/user-attachments/assets/915ec8aa-2b5b-4de3-963b-bc6a13823f61" />**
+
+ 
+**Crear una cuenta de ahorros o corriente para un cliente**:
+Metodo POST
+- **<img width="769" height="329" alt="image" src="https://github.com/user-attachments/assets/fb810534-8ee2-4f3d-be7b-4ce6d1f3baf6" />**
+
+
+**Listar las cuentas de un cliente**:
+Metodo GET
+- 
+
+  
+
+
+
