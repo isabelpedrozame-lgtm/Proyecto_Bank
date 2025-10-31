@@ -56,17 +56,24 @@ Todo esto se hace por medio de peticiones HTTP, que se pueden probar con Postman
 
   **Buscar un cliente por el id**:
   Seguimos con el metodo GET, colocaremos un ID valido
-  - **<img width="455" height="125" alt="image" src="https://github.com/user-attachments/assets/915ec8aa-2b5b-4de3-963b-bc6a13823f61" />**
+  - **<img width="708" height="380" alt="image" src="https://github.com/user-attachments/assets/74e2284e-d980-499b-ba87-041eca59ac38" />**
 
  
 **Crear una cuenta de ahorros o corriente para un cliente**:
 Metodo POST
 - **<img width="769" height="329" alt="image" src="https://github.com/user-attachments/assets/fb810534-8ee2-4f3d-be7b-4ce6d1f3baf6" />**
+- **<img width="945" height="348" alt="image" src="https://github.com/user-attachments/assets/85d03d07-7adb-425d-9eb4-f67c392be038" />**
 
 
 **Listar las cuentas de un cliente**:
 Metodo GET
-- 
+- **<img width="387" height="172" alt="image" src="https://github.com/user-attachments/assets/fbc6da9d-9246-4533-a60a-e7e2f3f35fcb" />**
+
+**Cuentas de ahorro**:
+Metodo POST
+- **<img width="960" height="467" alt="image" src="https://github.com/user-attachments/assets/3a397179-b74e-4825-aaa9-2e3ff8c41756" />**
+
+
 
   
 
